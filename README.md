@@ -12,7 +12,7 @@ Machine Learning Readiness: By the end of the preprocessing steps, the housing d
 
 Getting Started:
 
-()
+
 
 Contributing:
 
